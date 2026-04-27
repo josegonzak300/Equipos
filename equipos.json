@@ -9,4 +9,9 @@
     "nombre": "bomba1",
     "tipo": "secundario"
   }
+  {
+    "id": 3,
+    "nombre": "chiller",
+    "tipo": "critico"
+  }
 ]
