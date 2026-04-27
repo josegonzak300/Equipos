@@ -15,8 +15,13 @@
     "tipo": "critico"
   },
   {
-    "id": 3,
+    "id": 4,
     "nombre": "Publico B- Torre 1",
+    "tipo": "critico"
+  },
+  {
+    "id": 5,
+    "nombre": "Camillero A- Torre 2",
     "tipo": "critico"
   }
 ]
