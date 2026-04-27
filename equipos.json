@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "nombre": "compresor",
+    "tipo": "critico"
+  },
+  {
+    "id": 2,
+    "nombre": "bomba1",
+    "tipo": "secundario"
+  }
+]
