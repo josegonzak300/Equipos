@@ -1,17 +1,22 @@
 [
   {
     "id": 1,
-    "nombre": "compresor",
+    "nombre": "Camillero A- Torre 1",
     "tipo": "critico"
   },
   {
     "id": 2,
-    "nombre": "bomba1",
+    "nombre": "Camillero B- Torre 1",
     "tipo": "secundario"
   },
   {
     "id": 3,
-    "nombre": "chiller",
+    "nombre": "Publico A- Torre 1",
+    "tipo": "critico"
+  },
+  {
+    "id": 3,
+    "nombre": "Publico B- Torre 1",
     "tipo": "critico"
   }
 ]
