@@ -23,5 +23,20 @@
     "id": 5,
     "nombre": "Camillero A- Torre 2",
     "tipo": "critico"
+  },
+  {
+    "id": 6,
+    "nombre": "Camillero B- Torre 2",
+    "tipo": "critico"
+  },
+  {
+    "id": 7,
+    "nombre": "Publico A- Torre 2",
+    "tipo": "critico"
+  },
+  {
+    "id": 5,
+    "nombre": "Publico B- Torre 2",
+    "tipo": "critico"
   }
 ]
