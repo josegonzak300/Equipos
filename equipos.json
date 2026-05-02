@@ -38,10 +38,5 @@
     "id": 8,
     "nombre": "Publico B - Torre 2",
     "tipo": "critico"
-  },
-  {
-    "id": 9,
-    "nombre": "BOMBA - 2",
-    "tipo": "critico"
   }
 ]
