@@ -1,42 +1,42 @@
 [
   {
     "id": 1,
-    "nombre": "Camillero A- Torre 1",
+    "nombre": "Camillero A - Torre 1",
     "tipo": "critico"
   },
   {
     "id": 2,
-    "nombre": "Camillero B- Torre 1",
+    "nombre": "Camillero B - Torre 1",
     "tipo": "secundario"
   },
   {
     "id": 3,
-    "nombre": "Publico A- Torre 1",
+    "nombre": "Publico A - Torre 1",
     "tipo": "critico"
   },
   {
     "id": 4,
-    "nombre": "Publico B- Torre 1",
+    "nombre": "Publico B - Torre 1",
     "tipo": "critico"
   },
   {
     "id": 5,
-    "nombre": "Camillero A- Torre 2",
+    "nombre": "Camillero A - Torre 2",
     "tipo": "critico"
   },
   {
     "id": 6,
-    "nombre": "Camillero B- Torre 2",
+    "nombre": "Camillero B - Torre 2",
     "tipo": "critico"
   },
   {
     "id": 7,
-    "nombre": "Publico A- Torre 2",
+    "nombre": "Publico A - Torre 2",
     "tipo": "critico"
   },
   {
     "id": 8,
-    "nombre": "Publico B- Torre 2",
+    "nombre": "Publico B - Torre 2",
     "tipo": "critico"
   }
 ]
