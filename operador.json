@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nombre": "Oscar Yader LargaEspada",
+    "tipo": "operador"
+  },
+  {
+    "id": 2,
+    "nombre": "Javier Antonio Rios",
+    "tipo": "operador"
+  },
+  {
+    "id": 3,
+    "nombre": "Gustavo Morales Carcahe",
+    "tipo": "operador"
+  },
+  {
+    "id": 4,
+    "nombre": "Jose Daniel Morales",
+    "tipo": "operador"
+  }
+]
